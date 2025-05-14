@@ -20,3 +20,19 @@ $(document).ready(function(){
 $(".btn").click(function(){
     $("h1").css("color", "purple");
 });
+
+$(".hide").click(function(){
+    $("h1").hide();
+});
+
+$(".show").click(function(){
+    $("h1").show();
+});
+
+$(".slideUp").click(function(){
+    $("h1").slideUp();
+});
+
+$(".slideDown").click(function(){
+    $("h1").slideDown();
+});
