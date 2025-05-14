@@ -1,3 +1,9 @@
+.big-title{
+    font-size: 10rem;
+    color: yellow;
+    font-family: cursive;
+}
+
 /* Reset list style */
 ul {
   list-style-type: none;

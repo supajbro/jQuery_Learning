@@ -1,4 +1,4 @@
-$("h1").css("color", "red");
+$("h1").addClass("big-title")
 
 $(document).ready(function(){
     $('#googleBtn').on('click', function() {
